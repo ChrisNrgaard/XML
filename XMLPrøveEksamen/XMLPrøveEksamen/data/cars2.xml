@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cars>
+  <car>
+    <cylinders>4</cylinders>
+    <country>Sweden</country>
+  </car>
+  <car>
+    <cylinders>4</cylinders>
+    <country>Germany</country>
+  </car>
+  <car>
+    <cylinders>8</cylinders>
+    <country>USA</country>
+  </car>
+  <car>
+    <cylinders>4</cylinders>
+    <country>Japan</country>
+  </car>
+  <car>
+    <cylinders>6</cylinders>
+    <country>Germany</country>
+  </car>
+  <car>
+    <cylinders>10</cylinders>
+    <country>Italy</country>
+  </car>
+</cars>

@@ -1,0 +1,15 @@
+D:\Datamatiker\XMLPrøveEksamen\XMLPrøveEksamen\bin\Debug\net7.0\XMLPrøveEksamen.exe
+D:\Datamatiker\XMLPrøveEksamen\XMLPrøveEksamen\bin\Debug\net7.0\XMLPrøveEksamen.deps.json
+D:\Datamatiker\XMLPrøveEksamen\XMLPrøveEksamen\bin\Debug\net7.0\XMLPrøveEksamen.runtimeconfig.json
+D:\Datamatiker\XMLPrøveEksamen\XMLPrøveEksamen\bin\Debug\net7.0\XMLPrøveEksamen.dll
+D:\Datamatiker\XMLPrøveEksamen\XMLPrøveEksamen\bin\Debug\net7.0\XMLPrøveEksamen.pdb
+D:\Datamatiker\XMLPrøveEksamen\XMLPrøveEksamen\obj\Debug\net7.0\XMLPrøveEksamen.csproj.AssemblyReference.cache
+D:\Datamatiker\XMLPrøveEksamen\XMLPrøveEksamen\obj\Debug\net7.0\XMLPrøveEksamen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datamatiker\XMLPrøveEksamen\XMLPrøveEksamen\obj\Debug\net7.0\XMLPrøveEksamen.AssemblyInfoInputs.cache
+D:\Datamatiker\XMLPrøveEksamen\XMLPrøveEksamen\obj\Debug\net7.0\XMLPrøveEksamen.AssemblyInfo.cs
+D:\Datamatiker\XMLPrøveEksamen\XMLPrøveEksamen\obj\Debug\net7.0\XMLPrøveEksamen.csproj.CoreCompileInputs.cache
+D:\Datamatiker\XMLPrøveEksamen\XMLPrøveEksamen\obj\Debug\net7.0\XMLPrøveEksamen.dll
+D:\Datamatiker\XMLPrøveEksamen\XMLPrøveEksamen\obj\Debug\net7.0\refint\XMLPrøveEksamen.dll
+D:\Datamatiker\XMLPrøveEksamen\XMLPrøveEksamen\obj\Debug\net7.0\XMLPrøveEksamen.pdb
+D:\Datamatiker\XMLPrøveEksamen\XMLPrøveEksamen\obj\Debug\net7.0\XMLPrøveEksamen.genruntimeconfig.cache
+D:\Datamatiker\XMLPrøveEksamen\XMLPrøveEksamen\obj\Debug\net7.0\ref\XMLPrøveEksamen.dll
